@@ -1,6 +1,6 @@
-### Cześć, tu <Awerpowered>! 👋
+### Cześć, tu Awerpowered! 👋
 
-Jestem programistą pasjonującym się nowymi technologiami.
+Jestem studentem Matematyki stosowanej o specjalizacji analiza danych który pasjonuję się nowymi technologiami.
 
 ---
 
