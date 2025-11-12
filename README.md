@@ -14,7 +14,6 @@ Jestem studentem Matematyki stosowanej o specjalizacji analiza danych który pas
 
 ---
 
-### 🐍 Mój wąż zjada moje kontrybucje:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake-dark.svg">
