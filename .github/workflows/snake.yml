@@ -1,0 +1,26 @@
+name: Generate snake animation
+
+on:
+  # Uruchamia się automatycznie co 6 godzin
+  schedule:
+    - cron: "0 */6 * * *"
+  # Umożliwia ręczne uruchomienie
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Lista wyjść
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          # Token jest potrzebny do odczytania Twoich kontrybucji
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
