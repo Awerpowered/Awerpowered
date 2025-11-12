@@ -8,7 +8,7 @@ Jestem programistą pasjonującym się nowymi technologiami.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgresql" />
   </a>
 </p>
 
