@@ -17,7 +17,7 @@ Jestem programistą pasjonującym się nowymi technologiami.
 ### 🐍 Mój wąż zjada moje kontrybucje:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<Awerpowered>/<Awerpowered>/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<Awerpowered>/<Awerpowered>/main/dist/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/<Awerpowered>/<Awerpowered>/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake.svg">
 </picture>
