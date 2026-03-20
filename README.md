@@ -15,11 +15,6 @@ Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem
     <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,postgres,docker,fastapi,git,angular" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awerpowered&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00D1FF" width="100%" />
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake-dark.svg">
