@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=>>+SYSTEM+BOOTING...;>>+INITIALIZING+NEURAL+CORE...;>>+OPTIMIZING+N8N+WORKFLOWS...;>>+LOADING+CLAUDE+3.5+AGENTS...;>>+STATUS:+FULLY+OPERATIONAL" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:4568DC,100:B06AB3&animation=twinkling&reversal=false" />
