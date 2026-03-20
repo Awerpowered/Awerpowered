@@ -12,7 +12,7 @@ Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,docker,fastapi,git" />
+    <img src="https://skillicons.dev/icons?i=python,AI,tensorflow,postgres,docker,fastapi,git" />
   </a>
 </p>
 
