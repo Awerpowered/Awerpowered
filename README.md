@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=00D1FF&text=%20&section=header&reversal=false&textBg=false&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=>>+SYSTEM+BOOTING...;>>+INITIALIZING+NEURAL+CORE...;>>+OPTIMIZING+N8N+WORKFLOWS...;>>+LOADING+CLAUDE+3.5+AGENTS...;>>+STATUS:+FULLY+OPERATIONAL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=>>+SYSTEM+BOOTING...;>>+INITIALIZING+NEURAL+CORE...;>>+OPTIMIZING+N8N+WORKFLOWS...;>>+LOADING+CLAUDE+3.5+AGENTS...;>>+STATUS:+FULLY+OPERATIONAL" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7ABCFF,100:CFFFFF" />
 </p>
+
+
 
 Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem jest **Artificial Intelligence** i szeroko pojęta automatyzacja. Buduję systemy, które nie tylko przetwarzają dane, ale wyciągają z nich realną wartość.
 
