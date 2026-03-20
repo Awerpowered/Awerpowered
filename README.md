@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=>>+SYSTEM+BOOTING...;>>+INITIALIZING+NEURAL+CORE...;>>+OPTIMIZING+N8N+WORKFLOWS...;>>+LOADING+CLAUDE+3.5+AGENTS...;>>+STATUS:+FULLY+OPERATIONAL" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Awerpowered&color=00D1FF&style=flat-square&label=NEURAL_SYNC_COUNT" />
+</p>
+
 <br/>
 
 ### 🌌 [CORE_PROFILE]
@@ -23,6 +27,7 @@ Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem
 
 ---
 
+### 🐍 [CONTRIBUTION_SNAKE]
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake-dark.svg">
@@ -48,6 +53,10 @@ Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
+</p>
 
 <div align="right">
   <img src="https://img.shields.io/badge/System_Status-Online-brightgreen?style=flat-square" />
