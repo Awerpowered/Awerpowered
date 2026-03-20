@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7ABCFF,100:CFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:11998e,100:38ef7d&animation=twinkling&reversal=false" />
 </p>
 
 
@@ -16,7 +16,6 @@ Jestem studentem **Matematyki Stosowanej** (spec. Analiza Danych). Moim światem
   </a>
 </p>
 
----
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awerpowered/Awerpowered/output/github-contribution-grid-snake-dark.svg">
